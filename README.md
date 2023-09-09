@@ -6,7 +6,7 @@ The original `worker.js` is the content of Nikhil John's
 https://github.com/nikhiljohn10/telegram-bot-worker which is licensed with MIT.
 My modifications are licensed under the Apache license.
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/codebam/cf-workers-telegram-bot)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/MortezaHTGamer/cf-workers-telegram-bot/tree/master)
 
 To use the deploy button:
 
